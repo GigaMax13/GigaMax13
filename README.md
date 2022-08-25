@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/chainengine-xyz/chainengine-sdk">ChainEngine</a>
 
-- 🌱 I’m currently learning **Unity and Solana**
+- 🌱 I’m currently learning **Unity and Solidity**
 
 - 💬 Ask me about **Javascript, React and React Native**
 
