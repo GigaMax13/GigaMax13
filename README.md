@@ -1,5 +1,6 @@
-<h1 align="center">Hey 👋, I'm Maximiliano but you can call me Max 😉</h1>
-- 🔭 I’m currently working on <a href="https://github.com/chainengine-xyz/chainengine-sdk" target="_blank">ChainEngine</a>
+## Hey 👋, I'm Maximiliano but you can call me Max 😉
+
+- 🔭 I’m currently working on <a href="https://github.com/chainengine-xyz/chainengine-sdk">ChainEngine</a>
 
 - 🌱 I’m currently learning **Unity and Solana**
 
