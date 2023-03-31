@@ -1,7 +1,5 @@
 ## Hey 👋, I'm Maximiliano but you can call me Max 😉
 
-- 🔭 I’m currently working on <a href="https://github.com/chainengine-xyz/chainengine-sdk">ChainEngine</a>
-
 - 🌱 I’m currently learning **Unity and Solidity**
 
 - 💬 Ask me about **Javascript, React and React Native**
