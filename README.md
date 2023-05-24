@@ -1,8 +1,8 @@
 ## Hey 👋, I'm Maximiliano but you can call me Max 😉
 
-- 🌱 I’m currently learning **Unity and Solidity**
+- 🌱 I’m currently learning **Unity** and **Svelte**
 
-- 💬 Ask me about **Javascript, React and React Native**
+- 💬 Ask me about **Javascript, Typescript, React and React Native**
 
 - 📫 How to reach me **gigamax13@gmail.com**
 
