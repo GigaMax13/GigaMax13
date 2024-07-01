@@ -5,7 +5,7 @@ https://github.com/anuraghazra/github-readme-stats#github-stats-card
 
 ## Hey 👋, I'm Maximiliano but you can call me Max 😉
 
-- 🌱 I’m currently learning **Unity** and **Svelte**
+- 🌱 I’m currently learning **Unreal**.
 
 - 💬 Ask me about **Javascript, Typescript, React and React Native**
 
