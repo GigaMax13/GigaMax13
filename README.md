@@ -16,7 +16,7 @@ https://github.com/anuraghazra/github-readme-stats#github-stats-card
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gigamax13&show_icons=true&locale=en&layout=compact" alt="gigamax13" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gigamax13&layout=compact&hide=other" alt="gigamax13" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gigamax13&layout=compact&hide=other" alt="gigamax13" /> -->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gigamax13&show_icons=true&locale=en&theme=dark&rank_icon=github" alt="gigamax13" />
 
