@@ -21,9 +21,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gigamax13&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=gigamax13&show_icons=true&locale=en&theme=dark&rank_icon=github" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gigamax13&show_icons=true&locale=en&theme=dark&rank_icon=github&hide_border=true" alt="GitHub Stats" />
   &nbsp;&nbsp;
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=gigamax13&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
 </div>
