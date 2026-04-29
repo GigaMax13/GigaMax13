@@ -1,16 +1,9 @@
-# 👾 `< Hey, I'm Max />`
+# `<Max/>`
 
-### Pushing AI to its limits, then pushing harder.
+Full-stack dev obsessed with pushing tools beyond what they were designed for.
+Currently dragging Unreal Engine somewhere it probably shouldn't go.
 
-*Whipping models into shape one prompt at a time.*  
-*If it runs on silicon, I've probably broken it (on purpose).*
-
-🧠 **Currently taming** → Unreal Engine  
-⚡ **Weaponizing** → JavaScript · TypeScript · React · React Native  
-🤖 **Side quest** → Making AI do things it wasn't supposed to
-
-
-📡 **Find me in the matrix:**
+JS · TS · React · React Native — ask me anything.
 
 <a href="https://linkedin.com/in/maximilianodallaporta" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 &nbsp;
